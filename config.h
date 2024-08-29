@@ -1,0 +1,1 @@
+/home/reyuki/software/my-code/dotfiles/dwm/config.h
